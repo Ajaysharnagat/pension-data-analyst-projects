@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Excel](https://img.shields.io/badge/Excel-Anomaly%20Tracking-green)
+![SQL](https://img.shields.io/badge/SQL-Reconciliation-yellow)
+![BFSI](https://img.shields.io/badge/Domain-UK%20Pension-blueviolet)
+
 # Pension Data Analysis & Automation Projects – Ajay Sharnagat
 
 This repository showcases real-world projects focused on pension and financial data validation, automation, and reporting.
